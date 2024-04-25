@@ -1,0 +1,25 @@
+{
+  "name": "redux-guide",
+  "version": "1.0.0",
+  "description": "",
+  "main": "redux-demo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SubhajitDuttaSD/learning_phase.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Subhajit Dutta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SubhajitDuttaSD/learning_phase/issues"
+  },
+  "homepage": "https://github.com/SubhajitDuttaSD/learning_phase#readme",
+  "dependencies": {
+    "redux": "^5.0.1"
+  }
+}
